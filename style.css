@@ -312,11 +312,22 @@ html{
     width: 4rem;
     height: 4rem;
     background-color: #333;
-
+    color: #a79a2d;
+    border: none;
+    font-size: 1.8rem;
+    cursor: pointer;
 }
 
 .copyright {
     position: absolute;
     bottom: 3rem;
+    font-size: 1.7rem;
+    font-weight: 200;
+    color: #eee;
+    letter-spacing: .1rem;
+    border-top: 1rem solid #888;
+    padding-top: 6rem;
+    width: 100%;
+    text-align: center;
 }
 /* End of section 4 */
